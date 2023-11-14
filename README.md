@@ -18,8 +18,8 @@ Step 6: After performing the functions display the remaining balance of the use
 
 ## Program:
 ```
-Developed by : Paul Andrew D
-Reg No : 212221230075
+Developed by : Jeeva MS
+Reg No : 212221230040
 ```
 ```
 using System;
